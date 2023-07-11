@@ -1,4 +1,4 @@
-### AWS RESOURCE TRACKER
+##### AWS RESOURCE TRACKER
 This project will monitor the users AWS resources of
 1. EC2 instance
 2. S3 buckets
